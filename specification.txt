@@ -1,0 +1,27 @@
+HTML tag
+1. <a> for linking to others page
+2. <p> for making paragrap
+3. <h1-6> for making header text
+4. <img src=” “ > for displaying imgage to website
+5. <div> making a div contain many tag
+6. <button> for interactive/change background-color
+7. <header> make header part of website
+8. <ul> unorder list
+9. <ol> ordered list
+10. <li> identify a list use with list <ul> , <ol>
+
+5 CSS selectors
+1.#bcc
+2..image-container
+3..navbar a:hover
+4.header
+5..navbar a
+
+5 different CSS properties
+1.width
+2.object-fit
+3.padding
+4.background-color
+5.color
+
+I use bootstrap to make a good looking button and Javascript to make the button change background color when click.
